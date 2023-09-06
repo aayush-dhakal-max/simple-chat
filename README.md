@@ -1,4 +1,5 @@
-### Implementation of Digital Signatures and Cryptographic techniques in Chat Application
+### Implementation of Digital Signatures and
+### Cryptographic techniques in Chat Application
 
 #### Prerequisites
 
